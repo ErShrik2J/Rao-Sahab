@@ -1,0 +1,12 @@
+Fork the Original Repository: Visit the GitHub page of the original repository that you want to share. Click on the "Fork" button at the top right corner of the page. This will create a copy of the repository in your GitHub account.
+
+Clone Your Fork: Once you have forked the repository, you need to clone it to your local machine using Git. You can do this by clicking on the "Code" button on your forked repository's page and copying the URL. Then, open your terminal or Git bash and use the git clone command followed by the URL you copied.
+
+Make Changes and Commit: Make any changes you want to the code or files in your local repository. Once you're done with your changes, stage them using git add . and then commit them using git commit -m "Your commit message".
+
+Push Changes to Your Fork: After committing your changes, you need to push them to your forked repository on GitHub using the git push command.
+
+Create a Pull Request: Go to your forked repository on GitHub and click on the "Pull Request" button. This will take you to a new page where you can compare the changes between your fork and the original repository. If you're satisfied with the changes, you can create a pull request by clicking on the "Create Pull Request" button.
+
+Wait for Review and Merge: Once you've created the pull request, the owner of the original repository will be notified. They will review your changes and decide whether to merge them into the original repository.
+
